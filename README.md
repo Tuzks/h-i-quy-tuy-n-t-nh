@@ -1,2 +1,3 @@
-# h-i-quy-tuy-n-t-nh
-chạy trên lap jupyter IBM
+# Linear Regression
+chạy trên lap jupyter của IBM
+link: https://my.datascientistworkbench.com/tools/jupyterlab/
